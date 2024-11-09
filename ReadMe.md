@@ -25,7 +25,7 @@ The dataset used in this project is the IMDB movie reviews dataset, which contai
 ## How to Run the Project
 1. Clone this repository to your local machine.
    ```
-   git clone <repository_url>
+   git clone https://github.com/gregorymikuro/IMDM-Reviews-Sentiment-Analysis-Project
    ```
 
 2. Install the necessary dependencies.
@@ -73,5 +73,5 @@ This project showcases a comprehensive approach to sentiment analysis, from data
 If you have any questions or suggestions, feel free to reach out to me.
 
 
-- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/gregorymikuro)
+- **LinkedIn**: [Gregory Mikuro](https://www.linkedin.com/in/gregorymikuro)
 
